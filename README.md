@@ -4,3 +4,4 @@ Jupyter notebooks of the course Applied Data Science Capstone IBM - coursera
 2) Data Collection - Scraping
 3) Data Wrangling
 4) EDA and Data Visualization
+5) EDA with SQL
