@@ -6,4 +6,4 @@ Jupyter notebooks of the course Applied Data Science Capstone IBM - coursera
 4) EDA and Data Visualization (Jupiter-labs-eda-and-datavisualization)
 5) EDA with SQL (jupyter-labs-eda-sql-coursera_sqllite)
 6) Build an Interactive Map with Folium (lab_jupyter_launch_site_location)
-7) Build a Dashboard with Plotly Dash ()
+7) Build a Dashboard with Plotly Dash (spacex-dash-app - Plotly Dash, Findings - Plotly Dash,Task 1 to 4 Dashboard Plotly)
